@@ -1,5 +1,5 @@
-# v2ray-on-render
 #!/bin/bash
+
 UUID=${UUID:-"b3c5f8e4-1d2a-4d6e-9c3e-123456789abc"}
 WS_PATH=${WS_PATH:-"/ray"}
 
